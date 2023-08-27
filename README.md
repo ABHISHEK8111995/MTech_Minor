@@ -1,6 +1,6 @@
 This Folder contains MATLAB CODES of 3 minor project.
 all matlab codes are converted into Graphical user interface.
-hence to run the code properly, enter the value in the required boxes and press the the button.
+hence to run the code properly, enter the value in the required boxes and press the button.
 
      1. Non linear dynamic: 
      This file contain 7 matlab files. the main file is "non_linear_vib.m"
